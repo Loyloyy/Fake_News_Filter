@@ -1,4 +1,4 @@
-# Fake News Filter (1)
+# Fake News Filter
 
 ### Motivation
 My goal for this project includes the following
